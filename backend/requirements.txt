@@ -1,0 +1,13 @@
+Django>=5.2
+djangorestframework>=3.15
+djangorestframework-simplejwt>=5.3.1
+django-cors-headers>=4.4
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+gunicorn>=22.0
+whitenoise>=6.7
+celery>=5.4
+redis>=5.0
+pytest>=8.3
+pytest-django>=4.9
+loguru>=0.7
