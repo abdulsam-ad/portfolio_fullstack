@@ -7,7 +7,7 @@
           🚀 Portfolio
         </h1>
 
-        <!-- Links -->
+        <!-- Links
         <div class="space-x-6 text-lg font-semibold">
           <RouterLink
               to="/"
@@ -27,7 +27,7 @@
           >
             Login
           </RouterLink>
-        </div>
+        </div>-->
       </nav>
     </header>
 
